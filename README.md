@@ -12,8 +12,7 @@ PW2:2222
 
 You should be able to login, transfer money, request loan and close the account. All the actions have time stamps.
 Condition to get a loan: 
-loan > 0
-atleast 1 movement has to be equal or greater to (loan amount * 0.1)
+loan > 0 and atleast 1 movement has to be equal or greater to (loan amount * 0.1)
 
 
 Created in Udemy course
