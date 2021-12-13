@@ -2,10 +2,12 @@
 Application for banking.
 There are two accounts created
 
-Login1:js
-PW1:1111
+Login:js
 
-Login2:jd
+PW:1111
+
+Login:jd
+
 PW2:2222
 
 You should be able to login, transfer money, request loan and close the account. All the actions have time stamps.
